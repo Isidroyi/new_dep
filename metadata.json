@@ -1,0 +1,5 @@
+{
+  "name": "Technical Document Analyzer",
+  "description": "An intelligent web application that uses the AITUNNEL API to analyze a technical document, extracting key entities like parameters, requirements, and sources, and building a structured model of their relationships.",
+  "requestFramePermissions": []
+}
